@@ -3,17 +3,14 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
-
-
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+### Hola 👋 soy [Byron Lopez B.]
+> Ingenierio en ciencias de la computacion 
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+Soy Ingeniero en sistemas con tendencias a esforzarme en alcanzar mis onjetivos, no obstante me gusta dedicar un tiempo para despejar la mente, escuchando musica, viendo alguna serie/pelicula, practicar deportes, o jugando valorant, si es algun video jugeo que implique jugarlo con amigos es lo que mas disfruto del dia 🎮.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+Programador junior en desarrollo web, utilizando laravel y vuejs.
 </p>
 </div>
 
