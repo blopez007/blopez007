@@ -34,7 +34,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Contact </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/byron-lopez-9947a3222" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@byron-lopez-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/byron-lopez-9947a3222" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@byronlopez-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:byronlopez2561@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-byronlopez2561@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
