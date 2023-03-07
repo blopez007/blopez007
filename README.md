@@ -31,12 +31,10 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=blopez007&repo=BoletMaster&show_owner=true)](https://github.com/blopez007/BoletMaster.git)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Contact </h3>
 
 <p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/byron-lopez-9947a3222" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@byron-lopez-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:byronlopez2561@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-byronlopez2561@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
