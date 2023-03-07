@@ -30,7 +30,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/blopez007/BoletMaster.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=blopez007&repo=BoletMaster&show_owner=true)](https://github.com/blopez007/BoletMaster.git)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
